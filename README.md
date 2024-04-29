@@ -17,7 +17,7 @@ Here follows a list of steps describing how you can set up a GitHub repository t
 1. If you don't already have a GitHub account, create one by following the instructions [here](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account)
 2. If you don't already have GitHub Desktop app, download and install it by following the instructions [here](https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop)
 3. In your browser, go to the [acpennlab/statistics-resampling-project](https://github.com/acpennlab/statistics-resampling-project) and click the 'Use this template' button and 'Create a new repository' from the dropdown menu. In the settings for your new GitHub repository, give it a name and description and ensure that the visibility is set to `public`. (Further information about creating a GitHub repository from a template is available [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
-4. In your new GitHub respoitory, edit the link in the Binder badge using a new URL created with [nbgitpuller](https://nbgitpuller.readthedocs.io/en/latest/link.html?tab=binder) with the following settings: 
+4. In your new GitHub respoitory, edit the link in the Binder badge using a new URL created by the `Binder` tab form at [nbgitpuller](https://nbgitpuller.readthedocs.io/en/latest/link.html?tab=binder) using the following settings: 
   * BinderHub URL: `https://mybinder.org` 
   * Git Environment Repository URL: `https://github.com/acpennlab/statistics-resampling-online` 
   * Git Environment Repository Branch: `jammy-docker`  
