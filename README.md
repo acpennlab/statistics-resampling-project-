@@ -4,7 +4,7 @@ This is an example project using [statistics-resampling-online](https://github.c
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/acpennlab/statistics-resampling-online/jammy-docker?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Facpennlab%252Fstatistics-resampling-project%26urlpath%3Dlab%252Ftree%252Fstatistics-resampling-project%252Findex.ipynb%26branch%3Dmaster)
 
-Note that using this resources requires an active internet connection and an internet browser with javascript enabled. (If you don't know what that means then it probably is already!)
+Note that using this resource requires an active internet connection and an internet browser with javascript enabled. (If you don't know what that means then it probably is already!)
 
 🚧🔧 Parts of the documentation and example notebooks for this project are under construction 🔨🚧  
 
